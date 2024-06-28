@@ -8,7 +8,7 @@ import os
 
 
 def vision_url(url, client):
-  response = client.chat.completions.create(
+  response = client.chat.completions.create(cccccc
       model="gpt-4o",
       messages=[
           {
